@@ -1,0 +1,95 @@
+{
+    "students": [
+      {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "pwd": "password123",
+        "dob": "1999-05-15",
+        "gender": "Male",
+        "class": 12,
+        "roll": 101
+      },
+      {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "pwd": "securepass",
+        "dob": "2000-08-21",
+        "gender": "Female",
+        "class": 11,
+        "roll": 102
+      },
+      {
+        "name": "Michael Johnson",
+        "email": "michael.j@example.com",
+        "pwd": "pass123",
+        "dob": "1998-12-03",
+        "gender": "Male",
+        "class": 12,
+        "roll": 103
+      },
+      {
+        "name": "Emily Davis",
+        "email": "emily.d@example.com",
+        "pwd": "emilypass",
+        "dob": "2001-02-18",
+        "gender": "Female",
+        "class": 11,
+        "roll": 104
+      },
+      {
+        "name": "Daniel Brown",
+        "email": "daniel.b@example.com",
+        "pwd": "brownpass",
+        "dob": "2002-07-09",
+        "gender": "Male",
+        "class": 10,
+        "roll": 105
+      },
+      {
+        "name": "Olivia White",
+        "email": "olivia.w@example.com",
+        "pwd": "oliviapass",
+        "dob": "1999-09-30",
+        "gender": "Female",
+        "class": 12,
+        "roll": 106
+      },
+      {
+        "name": "William Lee",
+        "email": "william.l@example.com",
+        "pwd": "williampass",
+        "dob": "2000-05-12",
+        "gender": "Male",
+        "class": 11,
+        "roll": 107
+      },
+      {
+        "name": "Sophia Turner",
+        "email": "sophia.t@example.com",
+        "pwd": "sophiapass",
+        "dob": "2001-11-25",
+        "gender": "Female",
+        "class": 10,
+        "roll": 108
+      },
+      {
+        "name": "Liam Miller",
+        "email": "liam.m@example.com",
+        "pwd": "liampass",
+        "dob": "1998-04-14",
+        "gender": "Male",
+        "class": 12,
+        "roll": 109
+      },
+      {
+        "name": "Ava Wilson",
+        "email": "ava.w@example.com",
+        "pwd": "avapass",
+        "dob": "2002-03-07",
+        "gender": "Female",
+        "class": 11,
+        "roll": 110
+      }
+    ]
+  }
+  

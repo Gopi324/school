@@ -1,0 +1,62 @@
+.Personal-Details{
+    width: 340px;
+    padding: 10px;
+    position: absolute;
+    right: 39%;
+}
+.field-con{
+    margin-bottom: 5px;
+}
+.field-con input{
+    width: 320px;
+    height: 35px;
+    border-radius: 5px;
+}
+.Register-Parent{
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    position: absolute;
+    background-color:rgb(227,240,255);
+}
+.inputName{
+    font-size: 15px;
+    font-weight: bold;
+}
+.Academic-Details{
+    width: 340px;
+    padding: 10px;
+    position: absolute;
+    right: 39%;
+}
+.Child1{
+    height: 30% !important;
+    width: 100% !important;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Child2{
+    height: 70% !important;
+    width: 100% !important;
+    position: relative;
+}
+
+.Legal-Acknowledgments{
+    width: 400px;
+    padding: 10px;
+    position: absolute;
+    right: 39%;
+}
+.Check_Div{
+    margin-bottom: 5px;
+}
+.Check_Div input{
+    width: 15px !important;
+}
+.Stepstyle{
+    width: 850px;
+}

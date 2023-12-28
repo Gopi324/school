@@ -1,0 +1,23 @@
+.Maindiv{
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.neuro1{
+    width: 100% !important;
+    height: 20% !important;
+    margin: 0 !important;
+    padding: 10px 10px !important;
+    
+}
+.neuro2{
+    width: 100% !important;
+    height: 80% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}

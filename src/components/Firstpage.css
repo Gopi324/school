@@ -1,0 +1,83 @@
+.parent{
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 100% !important;
+}
+.level1{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    height: 100% !important;
+    align-items: center !important;
+    justify-content: center;
+}
+.gran1{
+    margin-bottom: 1px !important;
+}
+.gran1 input{
+    width: 300px !important;
+    height: 30px !important;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 3px;
+    
+    
+}
+.gran{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.gran input{
+    width: 300px !important;
+    height: 30px !important;
+    border-radius: 5px;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center !important;
+}
+.level2{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    height: 100% !important;
+    align-items: center;
+}
+.level3{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    height: 100% !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.label{
+    font-size: 17px;
+    font-weight: bold;
+    color: black !important;
+    text-align: start !important;
+    margin-bottom: 3px;
+}
+.Read{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    margin-right: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px !important;
+}
+.ButCon{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+
+}
+.ButCon button{
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 5px;
+    width: 75px;
+    padding: 4px;
+}
